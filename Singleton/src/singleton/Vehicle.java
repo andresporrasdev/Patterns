@@ -3,8 +3,7 @@ package singleton;
 public abstract class Vehicle {
 	
 	String vehicleType;
-	int year;
-	String model;
+	String typeEngine;
 	
 	abstract void start();
 	
